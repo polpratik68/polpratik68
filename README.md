@@ -1,5 +1,5 @@
 ![logo](https://github.com/polpratik68/polpratik68/blob/main/github.png)
-<h2 align = "center"> DATA + ANALYSIS = <img src ="https://bestanimations.com/uploads/gifs/373846046large-beating-heart-gif-animation3.gif" width="30"></h2> 
+<h2 align = "center"> DATA + Scientist = <img src ="https://bestanimations.com/uploads/gifs/373846046large-beating-heart-gif-animation3.gif" width="30"></h2> 
 <h2 align="center">
  <a>I Think, I Love Data, More Than Myself.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></a>
 </h2>
