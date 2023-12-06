@@ -1,3 +1,4 @@
+![logo](https://github.com/polpratik68/polpratik68/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Pratik Pol</h1>
 <h3 align="center">I am passionate about data science and analytics. .</h3>
 
